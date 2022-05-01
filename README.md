@@ -1,4 +1,4 @@
-# Slicer
+# DateToIndexMapper - PHP library
 
 DateToIndexMapper - Map a date to an index of an array
 
